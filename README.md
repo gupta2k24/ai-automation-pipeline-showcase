@@ -102,7 +102,7 @@ The system uses:
 ## 🎥 Live Demo
 
 Demo Video (Unlisted)-
-https://youtu.be/ArCVBvE7cJs)
+https://youtu.be/ArCVBvE7cJs
 
 ---
 
