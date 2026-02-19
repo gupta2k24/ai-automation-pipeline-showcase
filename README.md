@@ -46,7 +46,8 @@ The system uses:
 
 ## 🧱 Architecture Diagram
 
-![Architecture](architecture.png)
+<img width="1280" height="720" alt="Serverless_Automation_Pipeline" src="https://github.com/user-attachments/assets/343906a1-6518-4e4c-8502-14c89cead4ef" />
+
 
 ---
 
